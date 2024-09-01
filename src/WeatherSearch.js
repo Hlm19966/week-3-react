@@ -50,7 +50,7 @@ export default function WeatherSearch() {
                 <li>
                 Wind: {weather.wind}
                 </li>
-                <img scr={weather.icon} />
+                <img scr={weather.icon} alt="Weather app"/>
             </ul>
             
         </div>
